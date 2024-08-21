@@ -1,0 +1,9 @@
+You: Get help?
+Bot: Type your question, and I'll do my best to assist you.
+You: Advice?
+Bot: Sure! Let me know what you need advice on.
+You: More info?
+Bot: Check our website or help center for details.
+You: Time?
+Bot: I can't check the time, but you can use your device's clock.
+
